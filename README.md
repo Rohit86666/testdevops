@@ -1,6 +1,6 @@
 # Uphaar-kotlin
 
-Uphaar is an Android application built with Kotlin that connects donors with donation centers, making it easy to give and track charitable contributions. The app provides secure user authentication, an intuitive interface to explore donation locations, and tools to manage your own donations.
+Uphaar is an Android application built with Kotlin that connects donors with donation centers, making it easy to give and track charitable contributions. The app provides secure user authentication, an intuitive interface to explore donation locations, and tools to manage your own donations and also you can help other to grow in there life.
 
 ## Features
 
